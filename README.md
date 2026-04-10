@@ -51,10 +51,10 @@ Financial systems face unique reliability challenges:
 
 ## 📋 Prerequisites
 
-- Python 3.10+ or Go 1.21+
-- Docker + Docker Compose
-- Apache Kafka (included via Docker Compose)
-- Target payment API running and accessible
+1. Python 3.10+ or Go 1.21+
+2. Docker + Docker Compose
+3. Apache Kafka (included via Docker Compose)
+4. Target payment API running and accessible
 
 ---
 
